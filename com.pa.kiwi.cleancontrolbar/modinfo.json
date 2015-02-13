@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.kiwi.cleancontrolbar",
+  "display_name": "Clean Control Bar",
+  "build": "78071",
+  "date": "2015/2/12",
+  "description": "Makes the control bar look better with a lower opacity.",
+  "category": [
+        "in-game",
+        "client-mod",
+		"UI",
+		"tweak"
+    ],
+  "author": "KillerKiwiJuice",
+  "version": "1",
+  "signature": "not yet implemented",
+  "priority": 100,
+  "forum": "https://forums.uberent.com/threads/rel-clean-control-bar.67919/",
+  "icon": "http://i.imgur.com/msb68rR.png"
+}
